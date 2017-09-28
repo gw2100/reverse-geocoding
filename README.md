@@ -17,7 +17,7 @@ mvn clean spring-boot:run
 
 Usage:
 
-http://localhost:8080/addresses/search?latitude=51.5&longitude=-1.1166667
+http://localhost:8080/addresses/search?latitude=33.969601&longitude=-84.100033
 http://localhost:8080/addresses
 
 
