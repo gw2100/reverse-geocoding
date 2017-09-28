@@ -10,6 +10,11 @@ returned from this API should be a collection of the lookups performed, includin
 
 Getting Started
 
+Install:
+git clone https://github.com/gw2100/reverse-geocoding.git
+cd reverse-geocoding
+mvn clean spring-boot:run
+
 Usage:
 
 http://localhost:8080/addresses/search?latitude=51.5&longitude=-1.1166667
